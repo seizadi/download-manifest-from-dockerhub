@@ -26,6 +26,7 @@ For more information check [this blog post](http://blog.tomecek.net/post/downloa
 
 # Download manifests from Docker Hub
 13 JUNE 2016
+
 So we needed to fetch manifests of repositories from Docker Hub today. It’s not that hard. 30 lines of python can do it. But at the same time, you need to read docs with all the specs.
 
 ## Authentication
